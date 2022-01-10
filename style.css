@@ -356,15 +356,6 @@ img {
     background: var(--font-color-alt);
 }
 
-.contact {
-    width: 30rem;
-    padding-left: 2rem;
-}
-
-.contact__data {
-    text-align: center;
-}
-
 .footer__container{
     display: flex;
     flex-direction: column;
